@@ -1,0 +1,22 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.form input{
+    width: 400px;
+    height: 20px;
+}
+.form select{
+    max-width: 100px;
+}
+.wrapper{
+
+    display: flex;
+    margin: 20px auto;
+    max-width: 1280px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+}

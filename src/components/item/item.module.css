@@ -1,0 +1,40 @@
+.item{
+    display: grid;
+    grid-template-columns: 4fr 4fr;
+    border: 1px solid #000;
+    align-items: center;
+    justify-content: space-between;
+    border-top: none;
+    padding: 0 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.item__right{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    align-items: center;
+    gap:20px;
+
+}
+.item__right p{
+    display: flex;
+    align-items: center;
+}
+.item__right a{
+    text-align: center;
+    display: block;
+    width: 80px;
+    padding: 10px 20px;
+    background-color: #9b00ea;
+    opacity: 0.7;
+    text-decoration: none;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 20px;
+    transition: .2s linear;
+}
+.item__right a:hover{
+    opacity: 1;
+    background-color: #8600c9;
+    transform: scale(105%);
+}

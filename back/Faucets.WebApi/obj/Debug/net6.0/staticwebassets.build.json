@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qln044GD/tzwUh727oZ8vBmgxTtJdBPQm3mpGnHr0P0=",
+  "Source": "Faucets.WebApi",
+  "BasePath": "_content/Faucets.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

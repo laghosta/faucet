@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faucets.Domain", "Faucets.Domain\Faucets.Domain.csproj", "{5073C6FC-2149-4D4D-8C1B-8E7C84BC74A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faucets.Application", "Faucets.Application\Faucets.Application.csproj", "{1F330C7C-99C6-4E45-BD8D-F1CB850BA6B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faucets.WebApi", "Faucets.WebApi\Faucets.WebApi.csproj", "{46B35BBC-A5B6-4863-9C9C-295F18D2D669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5073C6FC-2149-4D4D-8C1B-8E7C84BC74A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5073C6FC-2149-4D4D-8C1B-8E7C84BC74A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5073C6FC-2149-4D4D-8C1B-8E7C84BC74A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5073C6FC-2149-4D4D-8C1B-8E7C84BC74A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F330C7C-99C6-4E45-BD8D-F1CB850BA6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F330C7C-99C6-4E45-BD8D-F1CB850BA6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F330C7C-99C6-4E45-BD8D-F1CB850BA6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F330C7C-99C6-4E45-BD8D-F1CB850BA6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B35BBC-A5B6-4863-9C9C-295F18D2D669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B35BBC-A5B6-4863-9C9C-295F18D2D669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B35BBC-A5B6-4863-9C9C-295F18D2D669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B35BBC-A5B6-4863-9C9C-295F18D2D669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

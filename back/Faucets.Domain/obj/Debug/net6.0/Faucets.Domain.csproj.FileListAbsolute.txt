@@ -1,0 +1,12 @@
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Domain\bin\Debug\net6.0\Faucets.Domain.deps.json
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Domain\bin\Debug\net6.0\Faucets.Domain.dll
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Domain\bin\Debug\net6.0\Faucets.Domain.pdb
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Domain\obj\Debug\net6.0\Faucets.Domain.csproj.AssemblyReference.cache
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Domain\obj\Debug\net6.0\Faucets.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Domain\obj\Debug\net6.0\Faucets.Domain.AssemblyInfoInputs.cache
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Domain\obj\Debug\net6.0\Faucets.Domain.AssemblyInfo.cs
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Domain\obj\Debug\net6.0\Faucets.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Domain\obj\Debug\net6.0\Faucets.Domain.dll
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Domain\obj\Debug\net6.0\refint\Faucets.Domain.dll
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Domain\obj\Debug\net6.0\Faucets.Domain.pdb
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Domain\obj\Debug\net6.0\ref\Faucets.Domain.dll

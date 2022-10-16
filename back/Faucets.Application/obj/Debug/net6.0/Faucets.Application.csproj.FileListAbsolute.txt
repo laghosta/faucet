@@ -1,0 +1,15 @@
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\bin\Debug\net6.0\Faucets.Application.deps.json
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\bin\Debug\net6.0\Faucets.Application.dll
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\bin\Debug\net6.0\Faucets.Application.pdb
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\bin\Debug\net6.0\Faucets.Domain.dll
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\bin\Debug\net6.0\Faucets.Domain.pdb
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\obj\Debug\net6.0\Faucets.Application.csproj.AssemblyReference.cache
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\obj\Debug\net6.0\Faucets.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\obj\Debug\net6.0\Faucets.Application.AssemblyInfoInputs.cache
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\obj\Debug\net6.0\Faucets.Application.AssemblyInfo.cs
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\obj\Debug\net6.0\Faucets.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\obj\Debug\net6.0\Faucets.Application.csproj.CopyComplete
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\obj\Debug\net6.0\Faucets.Application.dll
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\obj\Debug\net6.0\refint\Faucets.Application.dll
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\obj\Debug\net6.0\Faucets.Application.pdb
+C:\Users\Sashko\Desktop\react\faucet\back\Faucets.Application\obj\Debug\net6.0\ref\Faucets.Application.dll

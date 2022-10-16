@@ -1,0 +1,68 @@
+[
+  {
+    "category": "btc",
+    "data":
+    {
+      "id": 0,
+      "name": "Sauntre",
+      "reward": "100TRX",
+      "timer": "10min",
+      "link": "google.com",
+      "rate" : 5
+    }
+  },
+  {
+    "category": "eth",
+    "data":
+    {
+      "id": 0,
+      "name": "ETH",
+      "reward": "ETH",
+      "timer": "100min",
+      "rate" : 5,
+      "link": "google.com"
+    }
+
+  },
+  {
+    "category": "eth",
+    "data":
+    {
+      "id": 0,
+      "name": "ETH",
+      "reward": "ETH",
+      "timer": "100min",
+      "rate" : 2,
+      "link": "google.com"
+    }
+
+  },
+  {
+    "category": "eth",
+    "data":
+    {
+      "id": 0,
+      "name": "ETH",
+      "reward": "ETH",
+      "timer": "100min",
+      "rate" : 1,
+      "link": "google.com"
+    }
+
+  },
+  {
+    "category": "trx",
+    "data":
+    {
+      "id": 0,
+      "name": "trx",
+      "reward": "1trx",
+      "timer": "100min",
+      "rate" : 1,
+      "link": "google.com"
+    }
+
+  }
+
+
+]
