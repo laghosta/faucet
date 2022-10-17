@@ -13,7 +13,7 @@ const Item = ({faucets, admin, changeData}) => {
                 <p>{faucets.reward}</p>
                 <p>{faucets.timer}</p>
                 <p>{faucets.rate}/5 <img src="/img/Star 1.png" alt=""/></p>
-                {!admin? <a href={faucets.link}>CLAIM</a>: null}
+                {!admin? <a href={faucets.url}>CLAIM</a>: null}
                 {admin? <button onClick={()=>deleteItems(faucets.id)}>X</button> : null}
 
             </div>
