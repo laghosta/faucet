@@ -15,6 +15,7 @@ const Admin = () => {
         axios.get("https://api.allfaucets.me/faucets").then(res=>setData1(res.data))
     }, [])
     function createObject(e){
+        e.preventDefault()
         let name = document.getElementById("name").value
         let reward = document.getElementById("reward").value
         let timer = document.getElementById("timer").value
@@ -29,7 +30,7 @@ const Admin = () => {
                 "url": link
 
         }
-        axios.post('https://api.allfaucets.me/faucets', obj)
+        axios.post('https://api.allfaucets.me/faucets/', obj).then(()=>axios.get("https://api.allfaucets.me/faucets").then(res=>setData1(res.data)))
         axios.get("https://api.allfaucets.me/faucets").then(res=>setData1(res.data))
 
 
@@ -65,7 +66,7 @@ const Admin = () => {
         </div>
             <div className="App">
                 <PreHeader changeItems={setItems1} items ={items1}/>
-                <Table items={items1} data={data1}  admin={true}/>
+                <Table items={items1} data={data1}  admin={true} changeData={setData1}/>
             </div>
             <a href="/" style={{textAlign:"center",fontSize:"40px", display:"block", marginTop:"1.3em"}}>HOME</a>
     </div>

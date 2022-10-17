@@ -1,10 +1,10 @@
 import React from 'react';
 import styles from "./table.module.css"
 import Item from "../item/Item";
-const Table = ({items, data, admin}) => {
+const Table = ({items, data, admin, changeData}) => {
     const  switchTable = () => {
         if (data !== undefined){
-        return data.filter(item=>(item.category === items)).map(el=><Item faucets = {el} key ={el.id} admin={admin} />)
+        return data.filter(item=>(item.category === items)).map(el=><Item faucets = {el} key ={el.id} admin={admin} changeData={changeData} />)
         }
     }
 

@@ -1,10 +1,10 @@
 import React from 'react';
 import styles from "./item.module.css"
 import axios from "axios";
-const Item = ({faucets, admin}) => {
+const Item = ({faucets, admin, changeData}) => {
     function deleteItems(id){
-        axios.delete('https://api.allfaucets.me/faucets/'+id)
-        window.location.reload(false);
+        axios.delete('https://api.allfaucets.me/faucets/'+id).then(()=>axios.get("https://api.allfaucets.me/faucets").then(res=>changeData(res.data)))
+
     }
     return (
         <div className={styles.item}>
